@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import SearchBar from '../containers/search-bar'
-import WeatherList from '../containers/weather-list'
+import SearchBar from '../containers/SearchBar'
+import WeatherList from '../containers/WeatherList'
 import './App.css';
 
 class App extends Component {
